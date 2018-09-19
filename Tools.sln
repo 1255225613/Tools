@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProject", "MainProject\MainProject.csproj", "{64DC8DEB-74B6-4695-A388-F204C41F121A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeQRcode", "BarcodeQRcode\BarcodeQRcode.csproj", "{C5DBDB16-36D1-48FA-960C-C84366BEE89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DC8DEB-74B6-4695-A388-F204C41F121A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DC8DEB-74B6-4695-A388-F204C41F121A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DC8DEB-74B6-4695-A388-F204C41F121A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DC8DEB-74B6-4695-A388-F204C41F121A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DBDB16-36D1-48FA-960C-C84366BEE89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DBDB16-36D1-48FA-960C-C84366BEE89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DBDB16-36D1-48FA-960C-C84366BEE89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DBDB16-36D1-48FA-960C-C84366BEE89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B88CD3-EEC1-4FE8-96E2-934B29AD9BBA}
+	EndGlobalSection
+EndGlobal
